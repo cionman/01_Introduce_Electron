@@ -20,10 +20,6 @@
 
 <img src="ASSETS/visualstudiocode.png" alt="JavaScript">
 
-### Slack - [https://slack.com/](https://slack.com/)
-
-<img src="ASSETS/slack.png" alt="JavaScript">
-
 ### Kaku Music player - [http://kaku.rocks/](http://kaku.rocks/)
 
 <img src="ASSETS/kaku.jpeg" alt="JavaScript">
